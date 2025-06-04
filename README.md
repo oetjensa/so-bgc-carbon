@@ -1,8 +1,8 @@
-# "An improved model of particle attenuation reduces estimates of Southern Ocean carbon transfer efficiency" 
+# An improved model of particle attenuation reduces estimates of Southern Ocean carbon transfer efficiency
 Code for the analysis and figure production of the paper:
 (submitted to \textit{communications earth & envrionment})
 
-## Part 1: Data processing
+## 1: Data processing
 
 **BGC-Argo floats**
 - Data download using the Matlab OneArgo toolbox (https://github.com/NOAA-PMEL/OneArgo-Mat)
@@ -14,13 +14,13 @@ Code for the analysis and figure production of the paper:
 
   
 
-## Part 2: Computation of bgc parameter
+## 2: Computation of bgc parameter
 - dynamic height and sea surface height for zones
 - POC from Johnson and Koestner
 - euphotic zone
 - NPP from Arteaga
 
-## Part 3: Broken power law
+## 3: Broken power law
 - least-square fit
 - monte carlo simulation for uncertainty estimate
 - AIC for statistical test
@@ -29,7 +29,7 @@ Code for the analysis and figure production of the paper:
 - Linear regression for correlation test with temperature and NPP
 - R2, p-values,...
 
-  ## Part 4: Figures
+  ## 4: Figures
   - Figure 1
   - Figure 2
   - Figure 4
