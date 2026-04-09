@@ -1,5 +1,6 @@
 # An improved model of particle attenuation reduces estimates of Southern Ocean carbon transfer efficiency
-([Access:](https://www.nature.com/articles/s43247-025-03090-7))
+([Click to access paper](https://www.nature.com/articles/s43247-025-03090-7))
+
 Code for the analysis and figure production
 
 ## Python code for FIgure production
