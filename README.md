@@ -3,7 +3,7 @@
 
 Code for the analysis and figure production
 
-## Python code for FIgure production
+## Python code for Figure production
 
 **Datasets:**
 - AVISO sea_surface_height_above_geoid
